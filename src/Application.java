@@ -4,7 +4,7 @@ public class Application {
         var ferrari = new ItalianCar();
         var bg6 = new BritishCar();
         var seat2 = new SpanishCar();
-
+        runCar(ferrari);
         runCar(ferrari);
         runCar(golf7);
         runCar(bg6);
