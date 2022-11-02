@@ -9,7 +9,7 @@ public class Application {
         runCar(golf7);
         runCar(bg6);
         runCar(seat2);
-
+        runCar(seat2);
         washStation(ferrari);
         washStation(golf7);
         washStation(bg6);
